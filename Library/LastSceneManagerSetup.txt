@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.2/Demos - HandTracking/Scenes/Custom.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
